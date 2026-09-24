@@ -1,2 +1,3 @@
 # dude-Compression
-a safe zip bomb meant for educational purposes only
+A safe zip bomb meant for educational purposes only
+And it only works on Windows, btw
